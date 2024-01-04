@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yorozuya-2003](https://github.com/yorozuya-2003/yorozuya-2003/assets/101598170/b9a53b8a-2642-40b1-a3fb-e662f8a965ba)
+![yorozuya-2003](https://github.com/yorozuya-2003/yorozuya-2003/assets/101598170/12e171f5-a7a0-49a4-9836-dcd658ce5bd8)
 
 <h2 align="center"> I'm Tanish! </h2>
 
