@@ -17,50 +17,39 @@ Here are some ideas to get you started:
 
 <h2 align="center"> I'm Tanish! </h2>
 
-<div style="display:flex; flex-direction:row; gap:10px">
-<div>
-  <p> I am currently a B.Tech. student at IIT Jodhpur, pursuing Artificial Intelligence and Data Science. </p>
-  <p> I have worked primarily in the domain of software development, with a strong emphasis on machine learning and data-driven solutions. My focus lies in tackling complex problems, developing predictive models, and harnessing data to derive actionable insights. I thrive on tackling complex problems and finding innovative solutions. </p>
+<p> I am currently a B.Tech. student at IIT Jodhpur, pursuing Artificial Intelligence and Data Science. </p>
+<p> I have worked primarily in the domain of software development, with a strong emphasis on machine learning and data-driven solutions. My focus lies in tackling complex problems, developing predictive models, and harnessing data to derive actionable insights. I thrive on tackling complex problems and finding innovative solutions. </p>
 
-<div align="center">
-<h3> Let's connect! </h3>
-<div style="display:flex; flex-direction:row; gap:4px; justify-content:center">
-  <div>
-    <a href = "mailto:pagaria.2@iitj.ac.in" >
+<div style="display:flex; flex-drection:row; justify-content:center;">
+  <div align="center">
+    <a href = "mailto:pagaria.2@iitj.ac.in">
       <img src = "https://img.shields.io/badge/Email-blue?style=for-the-badge" height=40 />
     </a>
-  </div>
-  <div>
     <a href="https://www.linkedin.com/in/tanish-pagaria-007251225/">
-      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" height=40 />
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" height=40 />
     </a>
-  </div>
-  <div>
     <a href="https://drive.google.com/file/d/1KJwv70VsvWDuBD-x-wM0yYy_x6F-V8lF/view?usp=drive_link">
-      <img alt="linkedin" src="https://img.shields.io/badge/View_Resume-blue?style=for-the-badge" height=40 />
+      <img src="https://img.shields.io/badge/View_Resume-blue?style=for-the-badge" height=40 />
     </a>
   </div>
-</div>
+  <div align="center">
+    <img src="https://github-stats-alpha.vercel.app/api?username=yorozuya-2003&cc=000&tc=fff&ic=fff&bc=000" alt="yorozuya-2003" />
+  </div>
 </div>
 
-</div style="display:flex; flex-direction:column; align-items:center; justify-content:center">
-<img src="https://github-stats-alpha.vercel.app/api?username=yorozuya-2003&cc=000&tc=fff&ic=fff&bc=000" alt="yorozuya-2003" />
-</div>
 
 <div align="center">
-<h2> Tech Stack </h2>
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-<!-- </p>
-<p align="center"> -->
-    <img src="https://skillicons.dev/icons?i=django,qt,flask,html,css,js,react,figma" />
-<!-- </p>
-<p align="center"> -->
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,pytorch,tensorflow" />
-<!-- </p>
-<p align="center"> -->
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode" />
-</p>
-
+  <h2> Tech Stack </h2>
+  <p align="center">
+      <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <!-- </p>
+  <p align="center"> -->
+      <img src="https://skillicons.dev/icons?i=django,qt,flask,html,css,js,react,figma" />
+  <!-- </p>
+  <p align="center"> -->
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,pytorch,tensorflow" />
+  <!-- </p>
+  <p align="center"> -->
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode" />
+  </p>
 </div>
