@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 <div style="display:flex; flex-drection:row; justify-content:center;">
   <div align="center">
+    <a href="https://tanish-pagaria.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" height=40 />
+    </a>
     <a href = "mailto:pagaria.2@iitj.ac.in">
       <img src = "https://img.shields.io/badge/Email-blue?style=for-the-badge" height=40 />
     </a>
@@ -41,13 +44,13 @@ Here are some ideas to get you started:
 <div align="center">
   <h2> Tech Stack </h2>
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
   <!-- </p>
   <p align="center"> -->
       <img src="https://skillicons.dev/icons?i=django,qt,flask,html,css,js,react,figma" />
   <!-- </p>
   <p align="center"> -->
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,pytorch,tensorflow" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,pytorch,sklearn" />
   <!-- </p>
   <p align="center"> -->
       <img src="https://skillicons.dev/icons?i=git,github,linux,vim,vscode" />
