@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yorozuya-2003](https://github.com/yorozuya-2003/yorozuya-2003/assets/101598170/12e171f5-a7a0-49a4-9836-dcd658ce5bd8)
+![yorozuya-2003](https://github.com/yorozuya-2003/yorozuya-2003/assets/101598170/53270f43-52da-426f-ae98-044f196b0ab7)
 
 <h2 align="center"> I'm Tanish! </h2>
 
@@ -25,10 +25,10 @@ Here are some ideas to get you started:
     <a href="https://tanish-pagaria.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" height=40 />
     </a>
-    <a href = "mailto:pagaria.2@iitj.ac.in">
+    <a href = "mailto:tanishpagaria@gmail.com">
       <img src = "https://img.shields.io/badge/Email-blue?style=for-the-badge" height=40 />
     </a>
-    <a href="https://www.linkedin.com/in/tanish-pagaria-007251225/">
+    <a href="https://www.linkedin.com/in/tanishpagaria/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" height=40 />
     </a>
     <a href="https://drive.google.com/file/d/1KJwv70VsvWDuBD-x-wM0yYy_x6F-V8lF/view?usp=drive_link">
